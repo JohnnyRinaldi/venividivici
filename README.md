@@ -1,2 +1,2 @@
 # venividivici
-I'm a quantitative research trader, looking to get stronger un my programming skills. 
+I'm a quantitative research trader, trying to get stronger un my programming skills. 
